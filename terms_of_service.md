@@ -1,7 +1,7 @@
 
 # Terms of Service
 
-**Effective Date:** September 9, 2025
+**Effective Date:** November 24, 2025
 
 ## 1. Introduction
 
@@ -52,7 +52,7 @@ We reserve the right to modify these Terms at any time. We will provide notice o
 
 ## 9. Contact Us
 
-If you have any questions about these Terms, please contact us at: **danieljohnbyns@gmail.com**
+If you have any questions about these Terms, please contact us at: [**danieljohnbyns@gmail.com**](mailto:danieljohnbyns@gmail.com)
 
 ## 10. Support Tickets and Issue Reporting
 

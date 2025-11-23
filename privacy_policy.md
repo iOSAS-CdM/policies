@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-**Effective Date:** September 9, 2025
+**Effective Date:** November 24, 2025
 
 ## 1. Introduction
 
@@ -58,7 +58,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## 9. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: **danieljohnbyns@gmail.com**
+If you have any questions about this Privacy Policy, please contact us at: [**danieljohnbyns@gmail.com**](mailto:danieljohnbyns@gmail.com)
 
 ## 10. Reporting Issues or Concerns
 
