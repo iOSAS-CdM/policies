@@ -9,10 +9,18 @@ These Terms of Service ("Terms") govern your use of the OSAS API, the iOSAS mobi
 
 By accessing or using our Services, you agree to be bound by these Terms.
 
+## 1.1 Non-Affiliation Statement
+
+The Services are independent student research products. They are not official Colegio de Montalban platforms, and using them does not create a relationship with, or endorsement by, any CdM office. You agree not to use the Services to impersonate, interfere with, or otherwise represent yourself as an official CdM system.
+
 ## 2. Use of the Services
 
 *   **Eligibility:** You must be a current student or authorized staff member of Colegio de Montalban to use these Services.
 *   **Acceptable Use:** You agree not to misuse the Services. This includes, but is not limited to, attempting to gain unauthorized access, interfering with the proper working of the Services, or using the Services for any unlawful purpose.
+
+## 2.1 Pre-Implementation Status and Feedback
+
+The Services are currently in a pre-implementation, evaluation phase. Functionality may be incomplete and you may encounter bugs or limitations. We encourage you to submit a support ticket through the in-app channel or contact us at the email in Section 9 when you experience an issue so we can improve the platform.
 
 ## 3. Accounts
 
@@ -21,8 +29,9 @@ By accessing or using our Services, you agree to be bound by these Terms.
 
 ## 4. Intellectual Property
 
-*   **Our Services:** We, the student developers, retain all rights, title, and interest in and to the Services, including all related software, code, and user interface elements. These Services were created for academic purposes as a capstone project.
+*   **Our Services:** We, the student developers, retain rights only to the original code and materials we created for this academic project. The Services are provided solely for research and educational use and should not be used to represent official Colegio de Montalban systems.
 *   **User Content:** You retain ownership of the content you post or submit through the Services ("User Content"). By submitting User Content, you grant us a non-exclusive, royalty-free license to use, display, and distribute your User Content in connection with providing the Services.
+*   **Colegio de Montalban Property:** All Colegio de Montalban trademarks, logos, and official content remain the exclusive property of CdM. Nothing in these Terms grants you ownership or licensing rights to any CdM intellectual property, and you agree not to reproduce or distribute CdM materials without authorization.
 
 ## 5. Termination
 
@@ -30,7 +39,7 @@ We may suspend or terminate your access to the Services at any time, with or wit
 
 ## 6. Disclaimers and Limitation of Liability
 
-*   **"AS IS" Service:** The Services are provided on an "AS IS" and "AS AVAILABLE" basis. As this is a student project, we do not make any warranties about the reliability, accuracy, or availability of the Services.
+*   **"AS IS" Service:** The Services are provided on an "AS IS" and "AS AVAILABLE" basis. As this is a student project in active development, we do not make any warranties about the reliability, accuracy, or availability of the Services.
 *   **Limitation of Liability:** To the fullest extent permitted by law, we, the student developers, shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, resulting from your use of the Services.
 
 ## 7. Governing Law
@@ -44,3 +53,7 @@ We reserve the right to modify these Terms at any time. We will provide notice o
 ## 9. Contact Us
 
 If you have any questions about these Terms, please contact us at: **danieljohnbyns@gmail.com**
+
+## 10. Support Tickets and Issue Reporting
+
+To help us refine the Services, please report any bugs, defects, or security concerns through the in-app support ticket system or by emailing us at the address above. Providing clear feedback allows us to resolve issues more quickly and maintain the safety of your information.

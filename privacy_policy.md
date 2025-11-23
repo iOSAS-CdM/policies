@@ -7,7 +7,11 @@
 
 This Privacy Policy describes how a group of 4th Year BSIT students at Colegio de Montalban ("we," "us," or "our") collects, uses, and discloses your information. This policy applies to our entire suite of applications created for our capstone project, including the OSAS API, the iOSAS mobile application, the Administrative Staff desktop application, and the Superadmin desktop application (collectively, the "Services").
 
-This document is intended to inform you, as a user of our Services, about our data practices. As this is a capstone project, our primary goal is academic and functional, but we are committed to protecting your privacy.
+The Services are independent student research products and are **not** official Colegio de Montalban systems. We do not act on behalf of, nor do we represent, any CdM office. This document is intended to inform you, as a user of our Services, about our data practices. As this is a capstone project, our primary goal is academic and functional, but we are committed to protecting your privacy and to honoring CdM's intellectual property rights.
+
+## 1.1 Non-Affiliation Statement
+
+The Services are developed solely for academic research. All Colegio de Montalban trademarks, logos, and official platforms remain the exclusive property of CdM. Use of the Services should not be interpreted as an endorsement by CdM, and the Services must not be used to interfere with or impersonate any official CdM system.
 
 ## 2. Information We Collect
 
@@ -25,6 +29,7 @@ We use the information we collect for the following purposes:
 *   **To Provide and Maintain the Services:** To operate our applications, manage user accounts, and provide core functionality.
 *   **To Communicate with You:** To send you important announcements, updates, and support messages.
 *   **For Academic and Development Purposes:** To fulfill the requirements of our capstone project, and to analyze and improve the functionality and user experience of our Services.
+*   **Within the Scope of Consent:** We will not process or repurpose your personal information beyond the stated academic research objectives unless we have obtained your explicit consent.
 *   **To Ensure Security:** To monitor for and prevent fraudulent or unauthorized activity.
 
 ## 4. How We Share Your Information
@@ -54,3 +59,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## 9. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at: **danieljohnbyns@gmail.com**
+
+## 10. Reporting Issues or Concerns
+
+The Services are in a pre-implementation, evaluation stage and may exhibit bugs or limitations. If you discover a privacy-related issue, incident, or potential vulnerability, please submit a support ticket through the designated in-app support channel or contact us at the email above so we can investigate promptly.
